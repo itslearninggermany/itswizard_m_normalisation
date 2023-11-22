@@ -1679,6 +1679,7 @@ var CharactersToChange = map[int]string{
 	1115: "tshe",  //	ћ	1115	045B	 	CYRILLIC SMALL LETTER TSHE
 	1116: "kje",   //	ќ	1116	045C	 	CYRILLIC SMALL LETTER KJE
 	1117: "i",     //	ѝ	1117	045D	 	CYRILLIC SMALL LETTER I WITH GRAVE
+	7729: "k",     //    ḱ
 
 	7840: "A", // Ạ
 	7841: "a", //ạ
